@@ -1,22 +1,14 @@
-<!--
-**R3D-Corp/R3D-Corp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Who am I ?
 
-I am 16 years old **BELGIAN** teenager. 
+I am 16 years old **BELGIAN** teenager.
+I started programming and more specifically Scripting 2 years ago with scripts for FiveM. 
+I now hope to reach the programming universities.
 
-- ❤️ My lovely languages : 
+
+
+## About me
+
+### ❤️ My favorite languages : 
 
 ![LUA](https://img.shields.io/badge/lua-green?style=for-the-badge&logo=lua&logoColor=white&labelColor=%232C2D72&color=%232C2D72)
 &nbsp;
@@ -27,13 +19,14 @@ I am 16 years old **BELGIAN** teenager.
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-green?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=black)
 &nbsp;
 
- - 🚧 My projects :
+ ### 🚧 My projects :
 
-     - Melody ( A ad-free & open source music app. Made with Electron, Node.js & Apache Cordova ) : https://github.com/Niwer1525/melody
-     - Phoenix ( A fiveM server ) : /
-     - Physics software ( A basics electron.js app) 
-
+   > - Melody ( A ad-free & open source music app. Made with Electron, Node.js & Apache Cordova ) : https://github.com/Niwer1525/melody
+   > - Phoenix ( A fiveM server ) : /
+   > - Physics software ( A basics electron.js app) 
     
- - ⚽ My goals    :
-    - Learn UE5 ✖️
-    - Finish my projects ✖️
+ ### ⚽ My goals    :
+ 
+   > - Learn UE5 ✖️
+   > - Finish Phoenix project ✖️
+   > - Finish my physics course project ✅
