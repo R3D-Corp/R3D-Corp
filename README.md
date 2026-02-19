@@ -38,8 +38,8 @@ I am an 18-year-old **Belgian** student, currently in my first year of **DEVAPP 
 <br>
 <div align="center">
     <article>
-        <a href="https://wakatime.com">
-            <img alt="Github streak" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=R3D-Corp&theme=dracula&layout=compact&hide_border=true&hide=python, slint&card_width=450">
+        <a href="">
+            <img alt="Most used languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=R3D-Corp&theme=dracula&layout=compact&hide_border=true&hide=python, slint&card_width=450">
         </a>
     </article>
     <article>
