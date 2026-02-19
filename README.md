@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 I am an 18-year-old **Belgian** student, currently in my first year of **DEVAPP at HELMo** (since Sept 2025). <br>I started programming and more specifically Scripting 4 years ago with scripts for FiveM
 
