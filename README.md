@@ -39,11 +39,6 @@ I am an 18-year-old **Belgian** student, currently in my first year of **DEVAPP 
 <div align="center">
     <article>
         <a href="">
-            <img alt="Most used languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=R3D-Corp&theme=dracula&layout=compact&hide_border=true&hide=python, slint&card_width=450">
-        </a>
-    </article>
-    <article>
-        <a href="">
             <img alt="Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=R3D-Corp&theme=dracula&layout=default&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&card_width=450">
         </a>
     </article>
@@ -57,7 +52,7 @@ I am an 18-year-old **Belgian** student, currently in my first year of **DEVAPP 
       <td width="50%" valign="top">
         <h3>💻 Hardware</h3>
         <ul>
-          <li><strong>OS:</strong> Windows 11 <img src="https://img.shields.io/badge/-0078D4?style=flat&logo=windows-11&logoColor=white" height="15"></li>
+          <li><strong>OS:</strong> Windows 11</li>
           <li><strong>CPU:</strong> R9 5900X</li>
           <li><strong>GPU:</strong> RTX 3090</li>
         </ul>
